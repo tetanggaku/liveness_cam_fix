@@ -1,3 +1,11 @@
+## 0.0.8
+
+* update latest android
+
+## 0.0.7
+
+* update readme
+
 ## 0.0.6
 
 * remove deprecated api
